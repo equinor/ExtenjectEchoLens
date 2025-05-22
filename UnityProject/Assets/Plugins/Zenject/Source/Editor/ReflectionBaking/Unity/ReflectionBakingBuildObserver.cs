@@ -30,7 +30,7 @@ namespace Zenject.ReflectionBaking
 
             if (EditorUserBuildSettings.activeBuildTarget == BuildTarget.WSAPlayer)
             {
-                Log.Warn("Zenject reflection baking skipped because it is not currently supported on WSA platform!");
+                // Log.Warn("Zenject reflection baking skipped because it is not currently supported on WSA platform!");
             }
             else
             {
