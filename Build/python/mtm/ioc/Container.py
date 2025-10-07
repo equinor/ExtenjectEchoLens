@@ -1,4 +1,4 @@
-import collections
+import collections.abc  # updated import
 from mtm.util.Assert import *
 
 _providers = {}
@@ -40,7 +40,7 @@ class Binder:
         self.identifier = identifier
 
     def to(self, provider, *args, **kwargs):
-        if isinstance(provider, collections.Callable):
+        if isinstance(provider, collections.abc.Callable):  # updated
             def call():
                 return provider(*args, **kwargs)
         else:
@@ -57,7 +57,7 @@ class Binder:
         '''
         assertThat(not type(provider) in (str, int, float))
 
-        if isinstance(provider, collections.Callable):
+        if isinstance(provider, collections.abc.Callable):  # updated
             # It is either a method or a class
             def call():
                 instance = _singletons.get(provider)
@@ -79,4 +79,3 @@ class Binder:
             _providers[self.identifier] = []
 
         _providers[self.identifier].append(provider)
-

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Equinor\\ExtenjectEchoLens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Equinor\\ExtenjectEchoLens\\Build\\python\\mtm\\zen\\CreateRelease.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Build\\python\\mtm\\zen\\CreateRelease.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Assets\\SampleBuilder\\Editor\\SampleBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnityProject\\Assets\\SampleBuilder\\Editor\\SampleBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Assets\\Scripts\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnityProject\\Assets\\Scripts\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Packages\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnityProject\\Packages\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Equinor\\ExtenjectEchoLens\\Build\\UnityPackager\\UnityPackageUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Build\\UnityPackager\\UnityPackageUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Equinor\\ExtenjectEchoLens\\Build\\Pipfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Build\\Pipfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateRelease.py",
+              "DocumentMoniker": "C:\\Equinor\\ExtenjectEchoLens\\Build\\python\\mtm\\zen\\CreateRelease.py",
+              "RelativeDocumentMoniker": "Build\\python\\mtm\\zen\\CreateRelease.py",
+              "ToolTip": "C:\\Equinor\\ExtenjectEchoLens\\Build\\python\\mtm\\zen\\CreateRelease.py",
+              "RelativeToolTip": "Build\\python\\mtm\\zen\\CreateRelease.py",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-07T09:05:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleBuilder.cs",
+              "DocumentMoniker": "C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Assets\\SampleBuilder\\Editor\\SampleBuilder.cs",
+              "RelativeDocumentMoniker": "UnityProject\\Assets\\SampleBuilder\\Editor\\SampleBuilder.cs",
+              "ToolTip": "C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Assets\\SampleBuilder\\Editor\\SampleBuilder.cs",
+              "RelativeToolTip": "UnityProject\\Assets\\SampleBuilder\\Editor\\SampleBuilder.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:01:28.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Assets\\Scripts\\Test.cs",
+              "RelativeDocumentMoniker": "UnityProject\\Assets\\Scripts\\Test.cs",
+              "ToolTip": "C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Assets\\Scripts\\Test.cs",
+              "RelativeToolTip": "UnityProject\\Assets\\Scripts\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:01:16.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Packages\\manifest.json",
+              "RelativeDocumentMoniker": "UnityProject\\Packages\\manifest.json",
+              "ToolTip": "C:\\Equinor\\ExtenjectEchoLens\\UnityProject\\Packages\\manifest.json",
+              "RelativeToolTip": "UnityProject\\Packages\\manifest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T09:00:52.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnityPackageUtil.cs",
+              "DocumentMoniker": "C:\\Equinor\\ExtenjectEchoLens\\Build\\UnityPackager\\UnityPackageUtil.cs",
+              "RelativeDocumentMoniker": "Build\\UnityPackager\\UnityPackageUtil.cs",
+              "ToolTip": "C:\\Equinor\\ExtenjectEchoLens\\Build\\UnityPackager\\UnityPackageUtil.cs",
+              "RelativeToolTip": "Build\\UnityPackager\\UnityPackageUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:00:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pipfile",
+              "DocumentMoniker": "C:\\Equinor\\ExtenjectEchoLens\\Build\\Pipfile",
+              "RelativeDocumentMoniker": "Build\\Pipfile",
+              "ToolTip": "C:\\Equinor\\ExtenjectEchoLens\\Build\\Pipfile",
+              "RelativeToolTip": "Build\\Pipfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-07T08:59:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

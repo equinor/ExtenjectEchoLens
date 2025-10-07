@@ -3,14 +3,16 @@ import csv
 import re
 import os
 import sys
-import imp
+import importlib.util
 
 # Taken from here
 # http://www.py2exe.org/index.cgi/HowToDetermineIfRunningFromExe
 def isRunningAsExe():
-   return (hasattr(sys, "frozen") or # new py2exe
-       hasattr(sys, "importers") # old py2exe
-       or imp.is_frozen("__main__")) # tools/freeze
+    # Modern replacement for imp.is_frozen
+    is_frozen = getattr(sys, "frozen", False)
+    return (hasattr(sys, "frozen") or  # new py2exe
+            hasattr(sys, "importers") or  # old py2exe
+            is_frozen)  # tools/freeze replacement
 
 def getExecDirectory():
     return os.path.dirname(sys.argv[0])

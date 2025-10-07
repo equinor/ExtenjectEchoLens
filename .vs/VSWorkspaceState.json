@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UnityProject",
+    "\\UnityProject\\Assets",
+    "\\UnityProject\\Assets\\Plugins",
+    "\\UnityProject\\Assets\\Plugins\\Editor",
+    "\\UnityProject\\Assets\\Plugins\\Zenject",
+    "\\UnityProject\\Assets\\SampleBuilder",
+    "\\UnityProject\\Assets\\SampleBuilder\\Editor",
+    "\\UnityProject\\Assets\\SampleBuilder\\Resources",
+    "\\UnityProject\\Assets\\Scripts"
+  ],
+  "SelectedNode": "\\Build\\python\\mtm\\ioc\\Container.py",
+  "PreviewInSolutionExplorer": false
+}
